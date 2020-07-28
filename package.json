@@ -1,0 +1,28 @@
+{
+  "name": "Uso-Plantillas-NodeJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esrivera/Uso-Plantillas-NodeJS.git"
+  },
+  "keywords": [],
+  "author": "Santiago Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esrivera/Uso-Plantillas-NodeJS/issues"
+  },
+  "homepage": "https://github.com/esrivera/Uso-Plantillas-NodeJS#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
